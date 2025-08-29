@@ -5,12 +5,16 @@
     margin: 0;
 }
 
+.logo{
+
+}
+
 .header{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #f7e7ba;
+    background-color: #928fe3;
     padding: 30px 12px 20px 12px;
     width: 100%;
 }
@@ -56,7 +60,7 @@
 }
 
 .foot{
-    background-color: #f7e7ba;
+    background-color: #928fe3;
     display: flex;
     justify-content: center;
 }
